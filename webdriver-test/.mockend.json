@@ -1,0 +1,10 @@
+{
+  "Post": {
+    "title": "String",
+    "views": "Int",
+    "published": "Boolean"
+  },
+  "User": {
+    "name": "String"
+  }
+}
